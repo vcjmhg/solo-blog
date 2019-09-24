@@ -1,8 +1,8 @@
-<p align="center"><img alt="vcjmhg 的个人博客" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="vcjmhg 的个人博客" src="https://raw.githubusercontent.com/goWithHappy/pictureRepo/master/img/20190914101316.jpg"></p><h2 align="center">
 vcjmhg 的个人博客
 </h2>
 
-<h4 align="center">记录精彩的程序人生</h4>
+<h4 align="center">自律者自由</h4>
 <p align="center"><a title="vcjmhg 的个人博客" target="_blank" href="https://github.com/vcjmhg/solo-blog"><img src="https://img.shields.io/github/last-commit/vcjmhg/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/vcjmhg/solo-blog"><img src="https://img.shields.io/github/repo-size/vcjmhg/solo-blog.svg?style=flat-square"></a>
 <a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.4-f1e05a.svg?style=flat-square&color=blueviolet"></a>
@@ -10,7 +10,17 @@ vcjmhg 的个人博客
 
 ### 最新
 
-* [世界，你好！](https://www.vcjmhg.top/hello-solo)
+* [浅谈布隆过滤器](https://www.vcjmhg.top/BloomFilter)
+* [我的世界永不言败观后感](https://www.vcjmhg.top/articles/2019/09/21/1569056246080.html)
+* [MYSQL之查询篇](https://www.vcjmhg.top/SQLSelect)
+* [任务安排](https://www.vcjmhg.top/2019_plan)
+* [MYSQL之概念基础篇](https://www.vcjmhg.top/mysql1)
+* [P1005 Spell It Right](https://www.vcjmhg.top/Spell_It_Right)
+* [设计模式之单例模式](https://www.vcjmhg.top/instance)
+* [PAT A+B Format](https://www.vcjmhg.top/HelloPat)
+* [经典进程同步问题之生产者消费者问题](https://www.vcjmhg.top/consumerMode)
+* [23种设计模式之Builder设计模式](https://www.vcjmhg.top/BuilderMod)
+* [浅议正则表达式](https://www.vcjmhg.top/regex)
 
 
 
