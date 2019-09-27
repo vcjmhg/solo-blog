@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [佐藤可士和的超整理术读后感](https://www.vcjmhg.top/zotgkeuihe)
 * [MYSQL常用命令集](https://www.vcjmhg.top/mysqlCommander)
 * [浅谈布隆过滤器](https://www.vcjmhg.top/BloomFilter)
 * [我的世界永不言败观后感](https://www.vcjmhg.top/articles/2019/09/21/1569056246080.html)
