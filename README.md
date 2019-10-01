@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [MYSQL之修改篇](https://www.vcjmhg.top/sql_change)
 * [佐藤可士和的超整理术读后感](https://www.vcjmhg.top/zotgkeuihe)
 * [MYSQL常用命令集](https://www.vcjmhg.top/mysqlCommander)
 * [浅谈布隆过滤器](https://www.vcjmhg.top/BloomFilter)
