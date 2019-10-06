@@ -10,6 +10,8 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](https://www.vcjmhg.top/my-github-repos)
+* [从零开始搭建solo个人博客系统](https://www.vcjmhg.top/solo_start)
 * [MYSQL之修改篇](https://www.vcjmhg.top/sql_change)
 * [佐藤可士和的超整理术读后感](https://www.vcjmhg.top/zotgkeuihe)
 * [MYSQL常用命令集](https://www.vcjmhg.top/mysqlCommander)
