@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [solo升级以及自动化更新的方法](https://www.vcjmhg.top/solo_update)
 * [代理（Proxy）设计模式](https://www.vcjmhg.top/proxyMode)
 * [从零开始搭建solo个人博客系统](https://www.vcjmhg.top/solo_start)
 * [MYSQL之修改篇](https://www.vcjmhg.top/sql_change)
