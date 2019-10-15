@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [10月任务安排](https://www.vcjmhg.top/plan_2019_10)
 * [solo升级以及自动化更新的方法](https://www.vcjmhg.top/solo_update)
 * [代理（Proxy）设计模式](https://www.vcjmhg.top/proxyMode)
 * [从零开始搭建solo个人博客系统](https://www.vcjmhg.top/solo_start)
@@ -19,7 +20,7 @@ vcjmhg 的个人博客
 * [浅谈布隆过滤器](https://www.vcjmhg.top/BloomFilter)
 * [我的世界永不言败观后感](https://www.vcjmhg.top/articles/2019/09/21/1569056246080.html)
 * [MYSQL之查询篇](https://www.vcjmhg.top/SQLSelect)
-* [任务安排](https://www.vcjmhg.top/2019_plan)
+* [9月任务安排](https://www.vcjmhg.top/plan_2019_9)
 * [MYSQL之概念基础篇](https://www.vcjmhg.top/mysql1)
 * [P1005 Spell It Right](https://www.vcjmhg.top/Spell_It_Right)
 * [设计模式之单例模式](https://www.vcjmhg.top/instance)
