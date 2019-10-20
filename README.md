@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [MYSQL之事务篇](https://www.vcjmhg.top/sql_transaction)
 * [10月任务安排](https://www.vcjmhg.top/plan_2019_10)
 * [solo升级以及自动化更新的方法](https://www.vcjmhg.top/solo_update)
 * [代理（Proxy）设计模式](https://www.vcjmhg.top/proxyMode)
