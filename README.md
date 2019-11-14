@@ -10,6 +10,7 @@ vcjmhg 的个人博客
 
 ### 最新
 
+* [11月任务安排](https://www.vcjmhg.top/2019_11_plan)
 * [基于差分池化的分层图表示方法概述](https://www.vcjmhg.top/Hierarchical_Graph)
 * [MYSQL之事务篇](https://www.vcjmhg.top/sql_transaction)
 * [10月任务安排](https://www.vcjmhg.top/plan_2019_10)
@@ -29,6 +30,9 @@ vcjmhg 的个人博客
 * [PAT A+B Format](https://www.vcjmhg.top/HelloPat)
 * [经典进程同步问题之生产者消费者问题](https://www.vcjmhg.top/consumerMode)
 * [23种设计模式之Builder设计模式](https://www.vcjmhg.top/BuilderMod)
+
+### 热门
+
 * [浅议正则表达式](https://www.vcjmhg.top/regex)
 
 
