@@ -5,11 +5,12 @@ vcjmhg 的个人博客
 <h4 align="center">自律者自由</h4>
 <p align="center"><a title="vcjmhg 的个人博客" target="_blank" href="https://github.com/vcjmhg/solo-blog"><img src="https://img.shields.io/github/last-commit/vcjmhg/solo-blog.svg?style=flat-square&color=FF9900"></a>
 <a title="GitHub repo size in bytes" target="_blank" href="https://github.com/vcjmhg/solo-blog"><img src="https://img.shields.io/github/repo-size/vcjmhg/solo-blog.svg?style=flat-square"></a>
-<a title="Solo Version" target="_blank" href="https://github.com/b3log/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.5-f1e05a.svg?style=flat-square&color=blueviolet"></a>
-<a title="Hits" target="_blank" href="https://github.com/b3log/hits"><img src="https://hits.b3log.org/vcjmhg/solo-blog.svg"></a></p>
+<a title="Solo Version" target="_blank" href="https://github.com/88250/solo/releases"><img src="https://img.shields.io/badge/solo-3.6.7-f1e05a.svg?style=flat-square&color=blueviolet"></a>
+<a title="Hits" target="_blank" href="https://github.com/88250/hits"><img src="https://hits.b3log.org/vcjmhg/solo-blog.svg"></a></p>
 
 ### 最新
 
+* [关于握手那些事](https://www.vcjmhg.top/three_way_handshake)
 * [11月任务安排](https://www.vcjmhg.top/2019_11_plan)
 * [基于差分池化的分层图表示方法概述](https://www.vcjmhg.top/Hierarchical_Graph)
 * [MYSQL之事务篇](https://www.vcjmhg.top/sql_transaction)
@@ -29,14 +30,14 @@ vcjmhg 的个人博客
 * [设计模式之单例模式](https://www.vcjmhg.top/instance)
 * [PAT A+B Format](https://www.vcjmhg.top/HelloPat)
 * [经典进程同步问题之生产者消费者问题](https://www.vcjmhg.top/consumerMode)
-* [23种设计模式之Builder设计模式](https://www.vcjmhg.top/BuilderMod)
 
 ### 热门
 
 * [浅议正则表达式](https://www.vcjmhg.top/regex)
+* [23种设计模式之Builder设计模式](https://www.vcjmhg.top/BuilderMod)
 
 
 
 ---
 
-本仓库通过 [Solo](https://github.com/b3log/solo) 自动进行同步更新 ❤️ 
+本仓库通过 [Solo](https://github.com/88250/solo) 自动进行同步更新 ❤️ 
